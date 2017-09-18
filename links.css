@@ -1,0 +1,26 @@
+body {
+    background-color: green;
+}
+h1 {
+    color: pink;
+    font-family: helvetica;
+    font-size: 100%;
+    text-align: center
+}
+p {
+    color: pink;
+    font-family: helvetica;
+    font-size: 100%;
+}
+img {
+    max-width: 40%;
+    height: auto;
+}
+table, th, td {
+    border: 1px solid pink;
+    border-spacing: 2px;
+}
+th, td {
+    padding: 2px;
+    text-align: center;
+}
